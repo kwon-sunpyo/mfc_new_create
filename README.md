@@ -40,4 +40,14 @@
 ![image](https://user-images.githubusercontent.com/54826097/66266100-63783100-e85b-11e9-8ee9-5083fee733ab.png)
 ## 그 바로 밑에 보시면 Serialize 가 보이시면서 뭔가 적혀져 있을텐데 다 지워서 위에처럼 만들어 주시면 됩니다.
 
-이렇게 하신다면 이렇게 될겁니다.
+![image](https://user-images.githubusercontent.com/54826097/66266168-3aa46b80-e85c-11e9-9ed6-511b26b2a188.png)
+## 이렇게 하신다면 이렇게 될겁니다. 일단 펜크기가 바뀌는 사진입니다.
+
+![image](https://user-images.githubusercontent.com/54826097/66266187-822af780-e85c-11e9-8023-e21544c42b29.png)
+## 이건 색깔을 변경하는 기능입니다.
+
+![image](https://user-images.githubusercontent.com/54826097/66266223-bc949480-e85c-11e9-8e71-d9c47898eb2e.png)
+## 이부분을 눌러서 새로운 파일이 열리는 기능입니다.
+
+![image](https://user-images.githubusercontent.com/54826097/66266257-2a40c080-e85d-11e9-8fd6-59045c022231.png)
+# 감사합니다.
